@@ -26,7 +26,7 @@
 
 I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Development Engineer in Test and contributing to quality building of any cross platform applications.
 
 - :seedling: Exploring Technical Content Writing.
 
