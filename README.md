@@ -57,6 +57,8 @@ I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pipulpant&theme=dark)](https://git.io/streak-stats)
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipulpant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
