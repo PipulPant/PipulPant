@@ -62,7 +62,7 @@ I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :writing_hand: Blog Posts :
 html
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/cypress-can-be-simple-sometimes-dbdfb66b3c21"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/cypress-can-be-simple-sometimes-dbdfb66b3c21" alt="Cypress"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0" alt="Cypress"> 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
