@@ -53,6 +53,7 @@ I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=pipulpant&show_icons=true&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pipulpant)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pipulpant&theme=dark)](https://git.io/streak-stats)
 
