@@ -61,8 +61,7 @@ I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :writing_hand: Blog Posts :
-html
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0" alt="Cypress"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/2" alt="Cypress"> 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
