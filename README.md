@@ -61,27 +61,31 @@ I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :writing_hand: Recent Blog Posts
-<div>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0" alt="Blog 1" />
-  </a>
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/1" alt="Blog 2" />
-  </a>
+<!-- Blog 0 -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/0" alt="Recent Blog 1" />
+</a>
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/2" alt="Blog 3" />
-  </a>
+<!-- Blog 1 -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/1" alt="Recent Blog 2" />
+</a>
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/3">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/3" alt="Blog 4" />
-  </a>
+<!-- Blog 2 -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/2" alt="Recent Blog 3" />
+</a>
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/4">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/4" alt="Blog 5" />
-  </a>
-</div>
+<!-- Blog 3 -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/3">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/3" alt="Recent Blog 4" />
+</a>
+
+<!-- Blog 4 -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/4">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pipulpant/4" alt="Recent Blog 5" />
+</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
